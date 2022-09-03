@@ -1,14 +1,12 @@
 # File Compression
 
-A File Compression software that helps zip/Unzip files using these 2 algorihtms:
-
-1. Huffmans Code
-2. Lempel-Ziv-Wells algorithm
+A File Compression software that helps zip/Unzip files using opensource:
+7zip
 
 # About my code
 
-suing JAVA 
-# About Lempel-Ziv-Wells
+JAVA 100%
+
 
 
 ## Zip a file
